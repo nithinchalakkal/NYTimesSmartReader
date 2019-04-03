@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Smart Reader</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="nav_mostpop">Most Popular API</string>
+    <string name="nav_mostreview">Movie Reviews API</string>
+    <string name="nav_timeswire">Times Wire API</string>
+    <string name="nav_articlesearch">Article Search API</string>
+    <string name="isloading"> Please wait while loading</string>
+    <string name="currentlynotavilable"> Currently Not Available</string>
+    <string name="Auther"> Nithin Varghese C</string>
+    <string name="EmailID"> Nithinchalakkal@gmail.com</string>
+    <string name="NetworkIssue">Please Check your Network </string>
+    <string name="featurenot">This Feature</string>
+    <string name="URL">svc/mostpopular/v2/mostviewed/all-sections/7.json?api-key=</string>
+    <string name="KEY">hfGMrblK9rHSa2YzbTUH0OjqATxMze9C</string>
+</resources>
